@@ -1,0 +1,8 @@
+[Bb]in
+[Oo]bj
+*.user
+*.suo
+TestResults
+Local.testsettings
+TraceAndTestImpact.testsettings
+*.GhostDoc.xml
